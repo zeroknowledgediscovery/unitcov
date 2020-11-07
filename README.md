@@ -7,5 +7,4 @@ Universal Influenza-like Transmission Risk Based COVID-19 Incidence Prediction
 
 ---
 
-<img src="atlanta.png" alt="drawing" style="width:200px;"/>
 
