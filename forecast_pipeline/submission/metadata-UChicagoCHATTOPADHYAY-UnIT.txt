@@ -2,7 +2,7 @@ team_name: University of Chicago, Chattopadhyay Lab
 model_name: Universal Influenza-like Transmission Risk 
 model_abbr: UChicagoCHATTOPADHYAY-UnIT
 model_contributors: Yi Huang (University of Chicago),  Ishanu Chattopadhyay (University of Chicago)<ishanu@uchicago.edu>
-website_url: https://zed.uchicago.edu
+website_url: https://github.com/zeroknowledgediscovery/unitcov
 license: mit
 team_model_designation: primary
 methods: Stochastic similarity via sequence likelihood divergence, General Linear Models, Tensorflow, Ensemble Regressors
