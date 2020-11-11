@@ -1,3 +1,4 @@
 *.gz filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.dat filter=lfs diff=lfs merge=lfs -text
+*.dst filter=lfs diff=lfs merge=lfs -text
