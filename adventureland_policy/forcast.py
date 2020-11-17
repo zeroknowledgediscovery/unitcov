@@ -23,7 +23,7 @@ class tfRegr:
     def __init__(self, 
                  epoch=100, 
                  verbose=False, 
-                 validation_split=0.2, 
+                 validation_split=0.5, 
                  learning_rate=.1):
         
         self.normalizer = preprocessing.Normalization()
