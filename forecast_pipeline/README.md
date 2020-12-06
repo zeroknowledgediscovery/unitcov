@@ -45,3 +45,15 @@ https://opensource.com/article/19/7/create-pull-request-github
     - choose your fork;
     - choose your branch;
     - Then just following the instruction on the webpage.
+    
+# Update
+I am having a fork of `reichlab/covid19-forecast-hub` and work on a branch called `pphuangyi_branch`. Hence, I need to first get update from the upstream to the master of my fork and then sync my branch with master.
+
+Suppose I am currently on my branch `pphuangyi_branch` of my fork, I need to do the following to update
+```
+$ git fetch upstream
+$ git checkout master
+$ git merge upstream/master
+$ git checkout pphuangyi_branch
+$ git merge master
+```
