@@ -4,7 +4,7 @@ In the `unitcov/forecast_pipeline` folder, run notebook in exactly the following
 2. Run `pipeline_GLM.ipynb`
 3. Run `pipeline_forecast_case.ipynb` and `pipeline_forecast_death.ipynb`
 
-# Do varification
+# Do verification
 `pipeline_forecast_[target_type].ipynb` has varification coded in for the _data_ file. 
 But the meta data need varification too.
 
