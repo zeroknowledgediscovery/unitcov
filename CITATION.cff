@@ -8,5 +8,6 @@ authors:
   given-names: "Yi"
 title: "unitcov"
 version: 0.9.1
+doi: 10.5281/zenodo.5361628
 date-released: 2021-09-01
 url: "https://github.com/zeroknowledgediscovery/unitcov"
